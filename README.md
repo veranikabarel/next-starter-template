@@ -1,4 +1,18 @@
+💫 This is a free template for **[Next.js](https://github.com/vercel/next.js)** project.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Learn more](#learn-more)
+- [Deploy on vercel](#deploy-on-vercel)
+
+## Features
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+💫 Tests are configured in Jest and Playwright.
+💫 Eslint, Prettier and Husky trio are installed.
 
 ## Getting Started
 
